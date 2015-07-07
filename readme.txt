@@ -7,3 +7,4 @@ Learn how to use checkout
 Learn how to push to origin
 Creating a new branch is simple and quick
 Test conflict in master
+Test conflict
