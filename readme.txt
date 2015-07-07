@@ -4,3 +4,4 @@ Git is a free Software under the GPL
 Git has a mutable index called stage.
 Git tracks changes of files
 Learn how to use checkout
+Learn how to push to origin
